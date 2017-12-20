@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth App</string>
+    <string name="app_name2">Bluetooth App2</string>
+    <string name="Connected">Connected.</string>
+    <string name="Disconnected">Disconnected</string>
+    <string name="ConnectionF">Connection Failed.</string>
+    <string name="Connecting">Connecting....</string>
+    <string name="status">Status:</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="read">Read:</string>
+    <string name="r">R</string>
+    <string name="_0">0</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="write">Write</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
